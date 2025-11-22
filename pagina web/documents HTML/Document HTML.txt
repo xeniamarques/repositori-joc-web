@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pàgina d'exemple</title>
+</head>
+<body>
+    <h1>Això és un fitxer HTML de prova</h1>
+</body>
+</html>
